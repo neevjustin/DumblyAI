@@ -49,3 +49,8 @@ async def respond(request: Request):
         answer = f"Oops, I got confused: {str(e)}"
 
     return {"answer": answer}
+
+@app.get("/ping")
+def ping():
+    return {"status": "alive"}
+
