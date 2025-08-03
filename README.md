@@ -121,10 +121,10 @@ For Software:
 
 ---
 # Screenshots
-![screenshot1](image-1.png)
+![screenshot1](src/image-1.png)
 *Landing Page*
 
-![Screenshot2](image-2.png)
+![Screenshot2](src/image-2.png)
 *Thinking*
 
 ![Screenshot3](image.png)
@@ -134,7 +134,7 @@ For Software:
 ---
 # Diagrams
 
-![alt text](unnamed.png)
+![alt text](src/unnamed.png)
 *This diagram illustrates the architecture of DumblyAI, showcasing the flow from the React frontend, through the FastAPI backend, to the Google Gemini Pro API for generating intentionally incorrect responses.*
 
 ---
